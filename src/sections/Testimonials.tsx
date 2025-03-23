@@ -42,8 +42,8 @@ export const Testimonials = () => {
           Beyound Expectations.
         </h2>
         <p className="text-white/70 text-lg md:text-xl text-center mt-5 tracking-tight max-w-sm mx-auto">
-          Our revolutionary AI SEO tools have transformed our clients'
-          stratergies.
+          Our revolutionary AI SEO tools have transformed our clients
+          strategies.
         </p>
 
         <div className="flex overflow-hidden mt-10 [mask-image:linear-gradient(to_right,transparent,black_20%,black_80%,transparent)]">
